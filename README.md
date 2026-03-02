@@ -1,4 +1,4 @@
-Sécurité SSH
+# Sécurité SSH
 Prérequis
 
 Prendre la machine sur laquelle était déjà installé UFW et s'assurer que le port SSH est ouvert :

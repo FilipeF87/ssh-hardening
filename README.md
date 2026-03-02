@@ -4,7 +4,7 @@ Guide complet pour sécuriser une connexion SSH avec authentification par clé.
 
 ## Prérequis
 
-Prendre la machine sur laquelle était déjà installé UFW (voir démo précédente) et s'assurer que le port SSH est ouvert :
+Prendre la machine sur laquelle était déjà installé UFW et s'assurer que le port SSH est ouvert :
 
 ```
 bash

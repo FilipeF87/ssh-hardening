@@ -131,11 +131,3 @@ Redémarrez le serveur pour appliquer les modifications :
 
 sudo reboot
 </details>
-8️⃣ Vérification finale
-<details> <summary>Instructions</summary>
-
-Vérifiez la syntaxe du fichier de configuration SSH avant de redémarrer :
-
-sudo sshd -t
-sudo systemctl restart ssh
-</details>
